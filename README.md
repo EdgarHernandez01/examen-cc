@@ -1,2 +1,0 @@
-# examen-cc
-examen
